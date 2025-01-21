@@ -1,0 +1,14 @@
+# IntelliJ IDEA specific files
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+
+# Build output
+/build/
+captures/
+
+# Native build
+.externalNativeBuild/
+.cxx/
